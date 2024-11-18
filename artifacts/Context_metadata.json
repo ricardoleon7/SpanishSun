@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SpanishSun_flattened.sol": "Context"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SpanishSun_flattened.sol": {
+			"keccak256": "0x943125899a8920b6e33dab160b3597dad55a8adc10ecd1645820c5314aa2aa62",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d14560e418fe5b606076fce09916255826b9c9a25ad36cee44e37899bcc871ee",
+				"dweb:/ipfs/QmaU9mNVSEmQTdpGaMmRQSnJtofsMZKy43A6QZ3RAcRyMa"
+			]
+		}
+	},
+	"version": 1
+}
